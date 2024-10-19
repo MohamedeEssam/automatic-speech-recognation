@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/My%20Drive/ML/MLLFLOW/mlruns/0/2977eec504874743b32ab527ea0e52d0/artifacts
+end_time: 1728943699381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2977eec504874743b32ab527ea0e52d0
+run_name: intelligent-eel-228
+run_uuid: 2977eec504874743b32ab527ea0e52d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728943699202
+status: 3
+tags: []
+user_id: Rome

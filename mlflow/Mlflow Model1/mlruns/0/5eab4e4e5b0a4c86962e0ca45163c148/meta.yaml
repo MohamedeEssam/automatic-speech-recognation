@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/My%20Drive/ML/MLLFLOW/mlruns/0/5eab4e4e5b0a4c86962e0ca45163c148/artifacts
+end_time: 1728943699629
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eab4e4e5b0a4c86962e0ca45163c148
+run_name: classy-skink-104
+run_uuid: 5eab4e4e5b0a4c86962e0ca45163c148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728943699403
+status: 3
+tags: []
+user_id: Rome

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729003993878
+current_stage: None
+description: ''
+last_updated_timestamp: 1729003993878
+name: Wav2Vec2_ASR_Model
+run_id: 99845e24641f428aa18159c3c2153653
+run_link: ''
+source: mlflow-artifacts:/0/99845e24641f428aa18159c3c2153653/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/99845e24641f428aa18159c3c2153653/artifacts/model
+user_id: null
+version: 1
