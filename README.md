@@ -84,8 +84,8 @@ The web application allows users to upload or record audio files and transcribe 
 
 | Model                                | Task                   | Metric               | Result              |
 |---------------------------------------|------------------------|----------------------|---------------------|
-| `wav2vec2-large-xls-r-300m-en`        | Speech-to-Text          | Word Error Rate (WER) | 7%                  |
-| `mbart-large-50-many-to-many-mmt`     | Text Translation        | BLEU Score            | 35                  |
+| `wav2vec2-large-xls-r-300m-en`        | Speech-to-Text          | Word Error Rate (WER) | 0.56                  |
+| `mbart-large-50-many-to-many-mmt`     | Text Translation        | BLEU Score            | 12                  |
 | **AudioTranslate Web App**            | ASR & Translation       | UI Rating             | Responsive and user-friendly |
 
 ---
