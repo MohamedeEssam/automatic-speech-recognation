@@ -1,0 +1,11 @@
+###download project locally
+git clone https://github.com/Peter-Sami/automatic-speech-recognation-main
+cd automatic-speech-recognation-main
+py -m venv .venv
+.venv\scripts\activate
+pip install -r requirements.txt
+flask run
+###Upload project to Azure web app
+az login
+az webapp up --runtime PYTHON:3.11 --sku B1 --logs --name asrDEPI
+
