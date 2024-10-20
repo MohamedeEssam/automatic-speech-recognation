@@ -43,7 +43,7 @@ AudioTranslate is a project designed to transcribe audio recordings into text an
 - **Metric**: Word Error Rate (WER)
 
 #### **Performance Summary**:
-The ASR model achieved an average Word Error Rate (WER) of **7%** for clean audio. In challenging environments (with noise or accents), the WER increased slightly, but overall performance remained strong.
+The ASR model achieved an average **Word Error Rate (WER) of 0.56** for clean audio. In challenging environments (with noise or accents), the WER increased slightly, but overall performance remained strong.
 
 #### **Result Image**:
 ![ASR Results](./results/wave2vec2.png)
@@ -58,7 +58,7 @@ The ASR model achieved an average Word Error Rate (WER) of **7%** for clean audi
 - **Metric**: BLEU Score
 
 #### **Performance Summary**:
-The mBART model attained a **BLEU score of 35** for high-resource languages such as English, Spanish, and French. Translation quality was slightly lower for low-resource languages, but overall accuracy remained satisfactory.
+The mBART model attained a **BLEU score of 11** for high-resource languages such as English, Spanish, and French. Translation quality was slightly lower for low-resource languages, but overall accuracy remained satisfactory.
 
 #### **Result Image**:
 ![Translation Results](./results/mBart.png)
