@@ -46,7 +46,7 @@ AudioTranslate is a project designed to transcribe audio recordings into text an
 The ASR model achieved an average Word Error Rate (WER) of **7%** for clean audio. In challenging environments (with noise or accents), the WER increased slightly, but overall performance remained strong.
 
 #### **Result Image**:
-![ASR Results](images/asr_results.png)
+![ASR Results](./results/wave2vec2.png)
 
 ---
 
@@ -61,7 +61,7 @@ The ASR model achieved an average Word Error Rate (WER) of **7%** for clean audi
 The mBART model attained a **BLEU score of 35** for high-resource languages such as English, Spanish, and French. Translation quality was slightly lower for low-resource languages, but overall accuracy remained satisfactory.
 
 #### **Result Image**:
-![Translation Results](images/translation_results.png)
+![Translation Results](./results/mBart.png)
 
 ---
 
@@ -71,7 +71,7 @@ The mBART model attained a **BLEU score of 35** for high-resource languages such
 The web application allows users to upload or record audio files and transcribe or translate them in real time. It is designed to be intuitive, with clear navigation and quick response times.
 
 #### **Result Image**:
-![UI Screenshot](images/ui_screenshot.png)
+![UI Screenshot](./results/web-site.png)
 
 #### **Key Features**:
 - Easy-to-use recording feature
@@ -94,7 +94,7 @@ The web application allows users to upload or record audio files and transcribe 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/audiotranslate.git
+   git clone https://github.com/MohamedeEssam/automatic-speech-recognation.git
    ```
    
 2. Install dependencies:
