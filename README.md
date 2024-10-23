@@ -107,7 +107,7 @@ The web application allows users to upload or record audio files and transcribe 
    flask run
    ```
 
-4. Visit the application on `http://127.0.0.1:5000/`.
+4. Visit the application on `https://asrdepi.azurewebsites.net/`.
 
 ---
 
